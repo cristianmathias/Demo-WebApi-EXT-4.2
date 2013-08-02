@@ -1,0 +1,11 @@
+
+/* tirar borda do botão*/
+.x-btn-default-toolbar-large {
+    border-width: 0px !important;
+    background-image: none !important;
+    
+}
+
+.x-btn-default-toolbar-large .x-btn-inner {
+    font-size: 14px !important;
+}

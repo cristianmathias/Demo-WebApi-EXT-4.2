@@ -1,0 +1,23 @@
+/*Barra de Listagem*/
+
+.iconeNovo
+{
+    background-image: url('../../images/barras/novo.png') !important;
+}
+
+.iconeEditar
+{
+    background-image: url('../../images/barras/editar.png') !important;
+}
+
+.iconeExcluir
+{
+    background-image: url('../../images/barras/excluir.png') !important;
+}
+
+/*Barra de Edição*/
+
+.iconeSalvar
+{
+    background-image: url('../../images/barras/salvar.png') !important;
+}
